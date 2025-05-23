@@ -57,8 +57,8 @@ Socket programming finds applications in various domains, including web developm
 
 ### client.py:
 ```
-Name: Puli Naga Neeraj
-Reg no: 212223240130
+Name: Levin Paul David
+Reg no: 212224040170
 
 import socket
 from datetime import datetime
